@@ -26,4 +26,11 @@ function init() {
     } 
   }
 })
-}
+
+let index = 0
+
+
+init(codes)
+
+const alphabet = ['a', 'b', 'c'];
+init(alphabet)
